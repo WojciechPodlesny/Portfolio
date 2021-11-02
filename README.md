@@ -26,11 +26,10 @@
   - Testowanie oprogramowania
 # Recommended blogs
   - [testerzy.pl](https://testerzy.pl/)
-  - testuj.pl - Test, Bugs & Rock'n'Roll
-  - pwicherski.gitbook.io
-  - [wyszkolewas.com.pl(wyszkolewas.com.pl)
+  - [testuj.pl](https://testuj.pl/)
+  - [wyszkolewas.com.pl](wyszkolewas.com.pl)
   - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-  - toniebug.pl
+  - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 # Webinars
   - Bartosz Kita-testowanie REST API
   - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
