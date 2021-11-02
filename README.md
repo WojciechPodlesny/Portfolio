@@ -5,8 +5,8 @@
   - [Jira](https://www.atlassian.com/software/jira0)- Issue tracking and project management tool for developers
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
-   - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
-   - 
+  - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
+  - [TestRail](https://www.gurock.com/testrail/)-Test case management tool
   
    -[MySQL](https://www.mysql.com/)-Database
    -[Git](https://git-scm.com/)-System Control Version
