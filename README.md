@@ -25,7 +25,7 @@
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
 # Recommended blogs
-  - [testerzy.pl](testerzy.pl)
+  - [testerzy.pl](https://testerzy.pl/)
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - pwicherski.gitbook.io
   - wyszkolewas.com.pl
