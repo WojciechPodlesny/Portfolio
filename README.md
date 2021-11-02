@@ -16,9 +16,9 @@
 # Certificates
   - 
 # Courses
-  - Software Development Academy-Tester Oprogramowania
+  - [sdaacademy.pl](https://sdacademy.pl/) Software Development Academy-Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
-  - Tester Oprogramowania- Postman-Testowanie REST API
+  - Tester Oprogramowania- Postman Testowanie REST API
   - SELENIUM IDE-Kompletny kurs od podstaw
   - Samuraj Oprogramowania-Wprowadzenie do Git I Github
 # Groups on Facebook
