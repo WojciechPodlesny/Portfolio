@@ -10,9 +10,9 @@
   
   
 # Technical skills
-  -SQL
   - DevTools
   - Software testing
   - Creating test cases
   - Reporting bugs
+  - SQL
   
