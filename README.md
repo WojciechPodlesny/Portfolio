@@ -14,9 +14,9 @@
   - Reporting bugs
   - SQL
 # Certificates
-  - 
+  - [Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/df68a2bb02091c195cb940e7428f3d98943f2a862)
 # Courses
-  - [sdaacademy.pl](https://sdacademy.pl/) Software Development Academy-Tester Oprogramowania
+  - Software Development Academy-Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
   - Tester Oprogramowania- Postman Testowanie REST API
   - SELENIUM IDE-Kompletny kurs od podstaw
@@ -24,6 +24,7 @@
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
+  - Tester oprogramowania - jak nim zostać?
 # Recommended blogs
   - [testerzy.pl](https://testerzy.pl/)
   - [testuj.pl](https://testuj.pl/)
