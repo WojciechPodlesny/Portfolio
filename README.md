@@ -28,8 +28,8 @@
   - [testerzy.pl](https://testerzy.pl/)
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - pwicherski.gitbook.io
-  - wyszkolewas.com.pl
-  - pwicherski.gitbook.io
+  - [wyszkolewas.com.pl(wyszkolewas.com.pl)
+  - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
   - toniebug.pl
 # Webinars
   - Bartosz Kita-testowanie REST API
