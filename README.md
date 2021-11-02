@@ -31,5 +31,9 @@
   - wyszkolewas.com.pl
   - pwicherski.gitbook.io
   - toniebug.pl
+# Webinars
+  - Bartosz Kita-testowanie REST API
+  - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
+  - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
     
   
