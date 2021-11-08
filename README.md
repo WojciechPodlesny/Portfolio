@@ -47,4 +47,6 @@
   - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
   - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
   - Docker – Podstawy konteneryzacji aplikacji
+  
+# Zadania, które wykonywałem w czasie kursu:
  
