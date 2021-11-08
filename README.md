@@ -47,6 +47,5 @@
   - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
   - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
   
-# Zadania, które wykonywałem podczas kursu:
-   
+# Tasks that I performed during the course:
  
