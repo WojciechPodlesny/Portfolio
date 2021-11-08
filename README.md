@@ -7,9 +7,6 @@
   - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
-
-(img/technical_skills.png)
-
 # Technical skills
   - DevTools
   - Software testing
