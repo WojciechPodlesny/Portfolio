@@ -15,31 +15,31 @@
   - Creating test cases
   - Reporting bugs
   - SQL
-  - 
+  
 # Certificates
   - [Tester Oprogramowania](/https://app.diplomasafe.com/pl-PL/diploma/df68a2bb02091c195cb940e7428f3d98943f2a862)
   - [Scrum](https://app.diplomasafe.com/pl-PL/diploma/d980801166faed956fce602f6702175761cd751b4/scrum)
-  - 
+  
 # Courses
   - Software Development Academy-Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
   - Tester Oprogramowania- Postman Testowanie REST API
   - SELENIUM IDE-Kompletny kurs od podstaw
   - Samuraj Oprogramowania-Wprowadzenie do Git I Github
-  - 
+  
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
   - Tester oprogramowania - jak nim zostać?
   - ISTQB - egzaminy, pytania, testy
-  - 
+  
 # Recommended blogs
   - [testerzy.pl](https://testerzy.pl/)
   - [testuj.pl](https://testuj.pl/)
   - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
   - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
   - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-  - 
+  
 # Webinars
   - Bartosz Kita-testowanie REST API
   - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
