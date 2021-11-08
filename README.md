@@ -39,4 +39,4 @@
   - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
   - Docker – Podstawy konteneryzacji aplikacji
   - !(img/technical_skills.png)
-  
+  ![s](https://github.com/WojciechPodlesny/Portfolio/blob/main/technical_skills.png)
