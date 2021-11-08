@@ -8,7 +8,7 @@
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
 
-  + ![s](https://github.com/WojciechPodlesny/Portfolio/blob/main/technical_skills.png)
+  ![s](https://github.com/WojciechPodlesny/Portfolio/blob/main/technical_skills.png)
    
   
 # Technical skills
