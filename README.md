@@ -15,6 +15,7 @@
   - SQL
 # Certificates
   - [Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/df68a2bb02091c195cb940e7428f3d98943f2a862)
+  - [Scrum](https://app.diplomasafe.com/pl-PL/diploma/d980801166faed956fce602f6702175761cd751b4/scrum)
 # Courses
   - Software Development Academy-Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
