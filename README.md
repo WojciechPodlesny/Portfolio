@@ -8,9 +8,7 @@
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
 
-<center>
-
-![profile](img/technical_skills.png)
+(img/technical_skills.png)
 
 # Technical skills
   - DevTools
