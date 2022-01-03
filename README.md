@@ -31,7 +31,7 @@
   
 # Books
   - R.Pawlak - Tesotwanie Oprogramowania
-  - A.Roman,K.Zmitrowicz - Tesotwanie Oprogramowania w prakcyce
+  - A.Roman,K.Zmitrowicz - Tesotwanie Oprogramowania w Praktyce
 
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
