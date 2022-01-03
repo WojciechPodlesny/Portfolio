@@ -23,11 +23,11 @@
   - [Scrum](https://app.diplomasafe.com/pl-PL/diploma/d980801166faed956fce602f6702175761cd751b4/scrum)
   
 # Courses
-  - Software Development Academy-Tester Oprogramowania
+  - Software Development Academy - Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
-  - Tester Oprogramowania- Postman Testowanie REST API
-  - SELENIUM IDE-Kompletny kurs od podstaw
-  - Samuraj Oprogramowania-Wprowadzenie do Git I Github
+  - Tester Oprogramowania - Postman Testowanie REST API
+  - SELENIUM IDE - Kompletny kurs od podstaw
+  - Samuraj Oprogramowania - Wprowadzenie do Git I Github
   
 # Books
   - R.Pawlak - Testowanie Oprogramowania
