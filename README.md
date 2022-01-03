@@ -45,6 +45,7 @@
   - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
   - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
   - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+  - [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
   
 # Webinars
   - Bartosz Kita - testowanie REST API
