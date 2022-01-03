@@ -47,8 +47,8 @@
   - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
   
 # Webinars
-  - Bartosz Kita-testowanie REST API
-  - QA Szkolenia-Podstawy obsługi konsoli deweloperskiej 
+  - Bartosz Kita - testowanie REST API
+  - QA Szkolenia - Podstawy obsługi konsoli deweloperskiej 
   - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
   
 # Tasks that I performed during the course:
