@@ -29,6 +29,10 @@
   - SELENIUM IDE-Kompletny kurs od podstaw
   - Samuraj Oprogramowania-Wprowadzenie do Git I Github
   
+# Books
+-R.Pawlak-Tesotwanie oprogramowania
+
+
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
