@@ -48,4 +48,5 @@
   - Trzy kliknięcia do wydajności Praktyczne wejście w testy performance front-end
   
 # Tasks that I performed during the course:
+- [Tablica trello.com](https://trello.com/b/J3JGV7tK/zg%C5%82oszone-b%C5%82edy-do-stron-i-serwis%C3%B3w-www)
  
