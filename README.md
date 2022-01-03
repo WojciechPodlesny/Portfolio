@@ -30,8 +30,8 @@
   - Samuraj Oprogramowania-Wprowadzenie do Git I Github
   
 # Books
-  - R.Pawlak - Tesotwanie Oprogramowania
-  - A.Roman,K.Zmitrowicz - Tesotwanie Oprogramowania w Praktyce
+  - R.Pawlak - Testowanie Oprogramowania
+  - A.Roman,K.Zmitrowicz - Testowanie Oprogramowania w Praktyce
 
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
