@@ -9,7 +9,7 @@ Nazywam się Wojciech Podleśny, jestem początkującym testerem oprogramowania,
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
 
-  ![Technology](https://github.com/WojciechPodlesny/Portfolio/blob/main/technical_skills.png)
+ 
    
   
 # Technical skills
