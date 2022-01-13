@@ -1,6 +1,8 @@
 # Portfolio
 # About me
-Nazywam się Wojciech Podleśny i jestem początkującym testerem oprogramowania.W tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem które miałem dotychczas przyjemność wykonać.
+Nazywam się Wojciech Podleśny i jestem  z wykształcenia magistrem Górnictwa i Geologii. Ukończyłem studia wyższe na Politechnice Śląskiej w Gliwicach. Ostatnio zainteresowałem się testowaniem oprogramowania i wziąłem udział w kursie Testera Manualnego, organizowanym przez Software Development Academy.W przyszłości chciałbym rozwijać się w kierunku automatyzacji testów
+Na tej stronie chciałbym podzielić się całym moim doświadczeniem jakie miałem okazje do tej pory zdobyć.
+
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0)- Issue tracking and project management tool for developers
