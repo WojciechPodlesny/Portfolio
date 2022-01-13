@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Nazywam się Wojciech Podleśny, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem które miałem dotychczas przyjemność wykonać.
+Nazywam się Wojciech Podleśny i jestem początkującym testerem oprogramowania.W tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem które miałem dotychczas przyjemność wykonać.
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0)- Issue tracking and project management tool for developers
@@ -8,9 +8,6 @@ Nazywam się Wojciech Podleśny, jestem początkującym testerem oprogramowania,
   - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
-
- 
-   
   
 # Technical skills
   - DevTools
