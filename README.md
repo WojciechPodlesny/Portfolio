@@ -57,4 +57,6 @@ Na tej stronie chciałbym podzielić się całym moim doświadczeniem, jakie mia
 
 # My project
 Individual project - testing site [mediaexpert.pl](https://www.mediaexpert.pl)
+
+- [Requirements specification](https://docs.google.com/spreadsheets/d/1HzPyK8irfJvFI7jpfXF8ta1GqXwLPrRUjPEJqUB4sMI/edit?usp=sharing)
  
