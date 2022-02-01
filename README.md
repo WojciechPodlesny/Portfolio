@@ -56,5 +56,5 @@ Na tej stronie chciałbym podzielić się całym moim doświadczeniem, jakie mia
 - [My test cases and bugs](https://trello.com/b/J3JGV7tK/zg%C5%82oszone-b%C5%82edy-do-stron-i-serwis%C3%B3w-www)
 
 # My project
-Individual project - testing site [mediaexpert.com](https://www.mediaexpert.com)
+Individual project - testing site [mediaexpert.pl](https://www.mediaexpert.pl)
  
