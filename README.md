@@ -60,5 +60,6 @@ Individual project - testing site [mediaexpert.pl](https://www.mediaexpert.pl)
 
 - [Requirements specification](https://docs.google.com/spreadsheets/d/1HzPyK8irfJvFI7jpfXF8ta1GqXwLPrRUjPEJqUB4sMI/edit?usp=sharing)
 - [Test Plan](https://docs.google.com/spreadsheets/d/1HzPyK8irfJvFI7jpfXF8ta1GqXwLPrRUjPEJqUB4sMI/edit?usp=sharing)
+- [Test Scenarios](https://docs.google.com/spreadsheets/d/19qNZaN3L560mylpnAU5iSWbEVtQYDGiYTl7xGnMEHcs/edit?usp=sharing)
 
  
