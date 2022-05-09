@@ -9,6 +9,7 @@ Nazywam się Wojciech Podleśny i jestem  z wykształcenia magistrem Górnictwa 
   - [TestRail](https://www.gurock.com/testrail/)-Test case management tools
   - [MySQL](https://www.mysql.com/)-Database
   - [Git](https://git-scm.com/)-System Control Version
+  - TestLink
   
 # Technical skills
   - DevTools
@@ -24,8 +25,8 @@ Nazywam się Wojciech Podleśny i jestem  z wykształcenia magistrem Górnictwa 
 # Courses
   - Software Development Academy - Tester Oprogramowania
   - Kurs SQL Nowoczesne Bazy Danych
-  - Tester Oprogramowania - Postman Testowanie REST API
-  - SELENIUM IDE - Kompletny kurs od podstaw
+  - Rafał Podraza - Postman od podstaw - testowanie REST API
+  - Rafał Podraza - Kurs Jira od podstaw - zarządzanie projektami
   - Samuraj Oprogramowania - Wprowadzenie do Git I Github
   
 # Books
