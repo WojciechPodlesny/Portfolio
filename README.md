@@ -26,8 +26,9 @@ My name is Wojciech Podleśny. Recently I have become interested in testing and 
 
 # Courses
   - Software Development Academy - Tester Oprogramowania
-  - Rafał Podraza - 
-  - 
+  - Rafał Podraza - Kurs SQL od podstaw
+  - Rafał Podraza - Cypress od podstaw - automatyzacja testów
+  - Rafał Podraza - Postman od podstaw - testowanie REST API
 
 # Recommended blogs
 
