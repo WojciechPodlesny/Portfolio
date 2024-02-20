@@ -37,8 +37,6 @@ My name is Wojciech Podleśny. Recently I have become interested in testing and 
 
 :arrow_forward: [Waldemar Szafraniec: testy i szkolenia](https://www.wyszkolewas.com.pl/)
 
-:arrow_forward: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/)
-
 :arrow_forward: [testelka](https://testelka.pl/blog/)
 
 # My test case and bug reports examples
