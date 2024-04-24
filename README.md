@@ -23,6 +23,7 @@ My name is Wojciech Podleśny. Recently I have become interested in testing and 
   - HTML,CSS
   - Javascript
   - Cypress
+  - Git
 
 # Courses
   - Software Development Academy - Tester Oprogramowania
