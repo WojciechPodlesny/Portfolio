@@ -52,14 +52,7 @@ My name is Wojciech Podleśny. Recently I have become interested in testing and 
      - [Test Scenario](https://docs.google.com/spreadsheets/d/19qNZaN3L560mylpnAU5iSWbEVtQYDGiYTl7xGnMEHcs/edit#gid=0)
      - [Test Plan](https://docs.google.com/document/d/1edKinxWiFVTjIUIXsFccnSMKezfZLvtR/edit)
    
- - Tests API Trello
-    - Trello Application API tests please visit the repository:
-      [Tests API Trello](https://github.com/WojciechPodlesny/Tests-API-Trello)
-   
- - Test Automation
-    - Automation tests of the automationexercise.com application using the Cypress framework, please visit the repository:
-     [Tests Automation](https://github.com/WojciechPodlesny/Tests-Automation)
-   
+
     
       
 <p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
